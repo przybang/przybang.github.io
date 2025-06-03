@@ -121,18 +121,18 @@ Credential ID 1607697
 | **Organization:** | NASA Earth Science Division                                                         |
 | **LinkedIn:**     | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
 
-|                   |                                                                                     |
-|:------------------|:------------------------------------------------------------------------------------|
-| **Name:** | **Andi Thomas**                                                                     |
-| **Position:** | Project Manager                                                                     |
-| **Organization:** | NASA Web Strategy & Communications Team                                              |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
+|                   |                                                                                                       |
+|:------------------|:------------------------------------------------------------------------------------------------------|
+| **Name:**         | **Andi Thomas**                                                                                       |
+| **Position:**     | Project Manager                                                                                       |
+| **Organization:** | NASA Web Strategy & Communications Team                                                               |
+| **LinkedIn:**     | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
 
 
 ## Contact
 
-|                   |                                                                                     |
-|:------------------|:------------------------------------------------------------------------------------|
-| **Name**   | Paul Przyborski |
-| **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a> |
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 
+|              |                                                                                       |
+|:-------------|:--------------------------------------------------------------------------------------|
+| **Name**     | Paul Przyborski                                                                       |
+| **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a>              |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 

@@ -51,10 +51,10 @@ Credential ID 1607697
 ## Work experience
 **Science Systems and Applications, Inc (SSAI)**
 - *Chief Application Developer (Oct 2022 - Present)*  
-  Development Lead and Certified Scrum Master for the ESDS Web Strategy Team which facilitates the development of various NASA websites and applications across a broad range of development platforms and languages. Leads development team operations and software development across multiple platforms.  
+  Development Lead and Certified Scrum Master for the ESDS Web Strategy Team which facilitates the development of various NASA websites and applications across a broad range of development platforms and languages. Leads development team operations and software development across multiple platforms.
 
 - *Application Development Lead (Apr 2019 - Oct 2022)*  
-  Lead Developer for the <a href="https://earthobservatory.nasa.gov/">NASA’s Earth Observatory</a> Group. In addition to direct development on a variety of systems across multiple servers, I am responsible for coordinating all technology efforts within the group as the acting scrum master, ensuring that project goals are met accurately, effectively, and in a timely manner with the appropriate resources.  
+  Lead Developer for the <a href="https://earthobservatory.nasa.gov/">NASA’s Earth Observatory</a> Group. In addition to direct development on a variety of systems across multiple servers, I am responsible for coordinating all technology efforts within the group as the acting scrum master, ensuring that project goals are met accurately, effectively, and in a timely manner with the appropriate resources.
 
 - *Senior Application Developer, NASA's Earth Observatory Group (2014 - Apr 2019)*  
   Lead Developer for <a href="https://earthobservatory.nasa.gov/">NASA’s Earth Observatory</a> (November 2009 to present), <a href="https://visibleearth.nasa.gov/">NASA’s Visible Earth</a> (May 2011 to present) and <a href="https://neo.gsfc.nasa.gov/">NEO</a> (January 2012 to present), as well as several other agency wide websites.  
@@ -84,7 +84,7 @@ Credential ID 1607697
   - Diversified Occupations (including DIV OCC Work Experience)
   - Life and Career Skills
 
-**ACT Personnel Service, Inc.**  
+**ACT Personnel Service, Inc.**
 - *Technical Support Technician (2000-2003)*  
   Responsible for the maintenance and development of web and other networked services.
 
@@ -100,7 +100,7 @@ Credential ID 1607697
 - 2012 Climate and Radiation Laboratory “Special Award for an Act of Exceptional Merit, Beyond the Call of Duty”
 - 2010 Climate and Radiation Branch “Outstanding Technical or Science Support/Achievement Award”
 - 2009 Hydrospheric and Biospheric Sciences Laboratory Peer Award for “Outstanding Technical Support”
-- 2008 SSAI Performance Award "For contributions as a member of <a href="https://earthobservatory.nasa.gov">NASA’s Earth Observatory</a>, winner of the 2008 People’s Voice Award Webby in the Science Category."  
+- 2008 SSAI Performance Award "For contributions as a member of <a href="https://earthobservatory.nasa.gov">NASA’s Earth Observatory</a>, winner of the 2008 People’s Voice Award Webby in the Science Category."
 - Imagery and activities developed as part of the Landsat Image Mosaic of Antarctica (LIMA) team have been featured in the January 2009 publication of The Science Teacher (Vol 76 No. 1)
 - Bindschadler, R.A., B.A. Campbell, and P.D. Przyborski, 2008: Antarctica in High Definition, The Earth Scientist, XXVII (1), 6-9.
 
@@ -116,18 +116,18 @@ Credential ID 1607697
 | **Organization:** | NASA Earth Science Division                                                         |
 | **LinkedIn:**     | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
 
-|                   |                                                                                     |
-|:------------------|:------------------------------------------------------------------------------------|
-| **Name:** | **Andi Thomas**                                                                     |
-| **Position:** | Project Manager                                                                     |
-| **Organization:** | NASA Web Strategy & Communications Team                                              |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
+|                   |                                                                                                       |
+|:------------------|:------------------------------------------------------------------------------------------------------|
+| **Name:**         | **Andi Thomas**                                                                                       |
+| **Position:**     | Project Manager                                                                                       |
+| **Organization:** | NASA Web Strategy & Communications Team                                                               |
+| **LinkedIn:**     | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
 
 
 ## Contact
 
-|                   |                                                                                     |
-|:------------------|:------------------------------------------------------------------------------------|
-| **Name**   | Paul Przyborski |
-| **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a> |
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 
+|              |                                                                                       |
+|:-------------|:--------------------------------------------------------------------------------------|
+| **Name**     | Paul Przyborski                                                                       |
+| **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a>              |
+| **LinkedIn** | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 
