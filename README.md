@@ -69,7 +69,7 @@ Credential ID 1607697
 
 **Gloto**
 - *Developer (2013)*  
-  Contracted for module development for a proprietary web application on a part time basis.
+  Contracted for module development for a proprietary web application on a part-time basis.
 
 **Anne Arundel County Public Schools**
 - *Full-Time Teacher/Work-Based Learning Coordinator (2003 - 2007)*  
@@ -109,15 +109,15 @@ Credential ID 1607697
 
 ## 📚 References
 
-|     |                                                                                                                |
-|:----|:---------------------------------------------------------------------------------------------------------------|
-| **Name:** | **Kevin Ward**                                                                                                 |
-| **Position:** | Digital Strategy Lead                                                                                          |
-| **Organization:** | NASA Earth Science Division                                                                                    |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
+| **Name:**         | **Kevin Ward**                                                                      |
+| **Position:**     | Digital Strategy Lead                                                               |
+| **Organization:** | NASA Earth Science Division                                                         |
+| **LinkedIn:**     | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
 
-|     |                                                                                     |
-|:----|:------------------------------------------------------------------------------------|
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
 | **Name:** | **Andi Thomas**                                                                     |
 | **Position:** | Project Manager                                                                     |
 | **Organization:** | NASA Web Strategy & Communications Team                                              |
@@ -126,8 +126,8 @@ Credential ID 1607697
 
 ## 📞 Contact
 
-|     |                                                                                     |
-|:----|:------------------------------------------------------------------------------------|
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
 | **Name**   | Paul Przyborski |
 | **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a> |
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 

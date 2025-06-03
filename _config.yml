@@ -1,3 +1,14 @@
-theme: jekyll-theme-minimal
 title: Paul Przyborski
-description: Resume
+
+logo: paul.png
+
+description: Application Developer, Scrum Master, Amateur Bassist, Even More Amateur Race Car Driver
+
+theme: jekyll-theme-minimal
+
+show_downloads: true
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: paul.przyborski@gmail.com
