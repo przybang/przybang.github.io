@@ -6,7 +6,7 @@ Highly experienced Full Stack Developer, Certified Scrum Master, and Certified C
 
 I have worked within NASA since 2007 and, as the Chief Application Developer and Application Development Lead for the ESDS Web Strategy Team, I have been directly involved in creating and managing many of the largest websites in the NASA system.
 
-I specialize in both public outreach and developer-focused efforts, including integrating social networking into applications and creating resources (such as APIs) that allow external developers to build on NASA’s data.
+In addition to project management, I specialize in public outreach and developer-focused efforts, including integrating social networking into applications and creating resources (such as APIs) that allow external developers to build on NASA’s data.
 
 Excellent communicator who brings a diplomatic, professional, and collaborative approach to leadership and problem-solving.
 
