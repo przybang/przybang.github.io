@@ -93,6 +93,10 @@ Credential ID 1607697
 - *Technical Support Technician (2000-2003)*  
   Responsible for the maintenance and development of web and other networked services.
 
+## Volunteer Experience
+**Sports Car Club of America (SCCA) (2025-present)**  
+- *Prepared Action Committee Member*
+
 ## Awards & Publications
 
 - 2024 SSAI Performance Award - "In recognition of your outstanding support through the entire Capability Maturity Model Integration (CMMI) appraisal process that resulted in SSAI obtaining its CMMI Maturity Level 3 Certification."
