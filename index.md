@@ -56,7 +56,7 @@ Credential ID 1607697
 ## Work experience
 **Science Systems and Applications, Inc (SSAI)**
 - *Chief Application Developer (Oct 2022 - Present)*  
-  Development Lead and Certified Scrum Master for the ESDS Web Strategy Team which facilitates the development of various NASA websites and applications across a broad range of development platforms and languages. Leads development team operations and software development across multiple platforms.
+  Development Lead and Certified Scrum Master for the ESDS Web Strategy Team which facilitates the development of various NASA websites and applications across a broad range of development platforms and languages. Leads development team operations and software development across multiple platforms.  Assist facilitating two major website migration efforts inside NASA.
 
 - *Application Development Lead (Apr 2019 - Oct 2022)*  
   Lead Developer for the <a href="https://earthobservatory.nasa.gov/">NASA’s Earth Observatory</a> Group. In addition to direct development on a variety of systems across multiple servers, I am responsible for coordinating all technology efforts within the group as the acting scrum master, ensuring that project goals are met accurately, effectively, and in a timely manner with the appropriate resources.
