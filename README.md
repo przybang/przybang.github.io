@@ -105,7 +105,7 @@ Credential ID 1607697
 - Bindschadler, R.A., B.A. Campbell, and P.D. Przyborski, 2008: Antarctica in High Definition, The Earth Scientist, XXVII (1), 6-9.
 
 ## Education
-- **B.A.**, Business Education | <a href="https://www.frostburg.edu/" target="_blank">Frostburg State University</a>
+**B.A.**, Business Education | <a href="https://www.frostburg.edu/" target="_blank">Frostburg State University</a>
 
 ## References
 
