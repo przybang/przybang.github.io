@@ -36,7 +36,8 @@ jobs:
         run: |
           cd pdf-generator
           node generate-pdf.js
-          mv resume.pdf ../
+          mkdir -p ../docs
+          mv resume.pdf ../docs/resume.pdf
 
       - name: Commit PDF to repository
         run: |
