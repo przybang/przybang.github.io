@@ -107,7 +107,7 @@ Credential ID 1607697
 ## Education
 - **B.A.**, Business Education | <a href="https://www.frostburg.edu/" target="_blank">Frostburg State University</a>
 
-## 📚 References
+## References
 
 |                   |                                                                                     |
 |:------------------|:------------------------------------------------------------------------------------|
