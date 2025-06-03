@@ -32,7 +32,7 @@ jobs:
           npm init -y
           npm install puppeteer
 
-      - name: Generate PDF
+      - name: Generate PDF and move to docs/
         run: |
           cd pdf-generator
           node generate-pdf.js
@@ -43,6 +43,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add resume.pdf
+          git add docs/resume.pdf
           git commit -m 'Update resume PDF' || echo "No changes to commit"
           git push
