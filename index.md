@@ -74,20 +74,20 @@ Credential ID 1607697
 
 **Gloto**
 - *Developer (2013)*  
-  Contracted for module development for a proprietary web application on a part time basis.
+  Contracted for module development for a proprietary web application on a part-time basis.
 
 **Anne Arundel County Public Schools**
 - *Full-Time Teacher/Work-Based Learning Coordinator (2003 - 2007)*  
   Courses taught include, but not limited to:
-    - AP Computer Science A & AB
-    - Introduction to Computer Science JAVA
-    - Web Page Design
-    - Advanced Web Page Design
-    - Office Systems Management
-    - Introduction to Computers
-    - Keyboarding
-    - Diversified Occupations (including DIV OCC Work Experience)
-    - Life and Career Skills
+  - AP Computer Science A & AB
+  - Introduction to Computer Science JAVA
+  - Web Page Design
+  - Advanced Web Page Design
+  - Office Systems Management
+  - Introduction to Computers
+  - Keyboarding
+  - Diversified Occupations (including DIV OCC Work Experience)
+  - Life and Career Skills
 
 **ACT Personnel Service, Inc.**
 - *Technical Support Technician (2000-2003)*  
@@ -110,29 +110,29 @@ Credential ID 1607697
 - Bindschadler, R.A., B.A. Campbell, and P.D. Przyborski, 2008: Antarctica in High Definition, The Earth Scientist, XXVII (1), 6-9.
 
 ## Education
-- **B.A.**, Business Education | <a href="https://www.frostburg.edu/" target="_blank">Frostburg State University</a>
+**B.A.**, Business Education | <a href="https://www.frostburg.edu/" target="_blank">Frostburg State University</a>
 
-## 📚 References
+## References
 
-|     |                                                                                                                |
-|:----|:---------------------------------------------------------------------------------------------------------------|
-| **Name:** | **Kevin Ward**                                                                                                 |
-| **Position:** | Digital Strategy Lead                                                                                          |
-| **Organization:** | NASA Earth Science Division                                                                                    |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
+| **Name:**         | **Kevin Ward**                                                                      |
+| **Position:**     | Digital Strategy Lead                                                               |
+| **Organization:** | NASA Earth Science Division                                                         |
+| **LinkedIn:**     | <a href="https://www.linkedin.com/in/kevinalanward/" target="_blank">Visit Page</a> |
 
-|     |                                                                                     |
-|:----|:------------------------------------------------------------------------------------|
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
 | **Name:** | **Andi Thomas**                                                                     |
 | **Position:** | Project Manager                                                                     |
 | **Organization:** | NASA Web Strategy & Communications Team                                              |
 | **LinkedIn:** | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
 
 
-## 📞 Contact
+## Contact
 
-|     |                                                                                     |
-|:----|:------------------------------------------------------------------------------------|
+|                   |                                                                                     |
+|:------------------|:------------------------------------------------------------------------------------|
 | **Name**   | Paul Przyborski |
 | **E-mail**   | <a href="mailto:paul.przyborski@gmail.com">paul.przyborski@gmail.com</a> |
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/paul-przyborski/" target="_blank">Visit Page</a> | 
