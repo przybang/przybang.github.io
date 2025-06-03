@@ -21,17 +21,20 @@ jobs:
       - name: Install Puppeteer dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y libxss1 libasound2 libnss3 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6 libxrandr2 libgbm-dev libpango1.0-0 libatk1.0-0 libatk-bridge2.0-0 libcups2
+          sudo apt-get install -y \
+            libxss1 libasound2 libnss3 libx11-xcb1 libxcomposite1 \
+            libxcursor1 libxdamage1 libxi6 libxtst6 libxrandr2 libgbm-dev \
+            libpango1.0-0 libatk1.0-0 libatk-bridge2.0-0 libcups2
 
       - name: Install Puppeteer
         run: |
-          cd .pdf-generator
+          cd pdf-generator
           npm init -y
           npm install puppeteer
 
       - name: Generate PDF
         run: |
-          cd .pdf-generator
+          cd pdf-generator
           node generate-pdf.js
           mv resume.pdf ../
 
