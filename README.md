@@ -124,7 +124,7 @@ Credential ID 1607697
 | **LinkedIn:** | <a href="https://www.linkedin.com/in/andi-brinn-thomas-earth-science/" target="_blank">Visit Page</a> |
 
 
-## 📞 Contact
+## Contact
 
 |                   |                                                                                     |
 |:------------------|:------------------------------------------------------------------------------------|
