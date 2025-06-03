@@ -1,0 +1,44 @@
+name: Generate Resume PDF
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install Puppeteer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxss1 libasound2 libnss3 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6 libxrandr2 libgbm-dev libpango1.0-0 libatk1.0-0 libatk-bridge2.0-0 libcups2
+
+      - name: Install Puppeteer
+        run: |
+          cd .pdf-generator
+          npm init -y
+          npm install puppeteer
+
+      - name: Generate PDF
+        run: |
+          cd .pdf-generator
+          node generate-pdf.js
+          mv resume.pdf ../
+
+      - name: Commit PDF to repository
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add resume.pdf
+          git commit -m 'Update resume PDF' || echo "No changes to commit"
+          git push
