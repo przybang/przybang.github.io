@@ -7,7 +7,7 @@ title: Paul Przyborski
 ### Current Position - Chief Application Developer at Science Systems and Applications, Inc (SSAI)
 
 #### Summary:
-Highly experienced Full Stack Developer, Certified Scrum Master, and Certified CMMI Associate with an extensive background in custom programming and various content management systems (CMS) and model–view–controller (MVC) frameworks, including WordPress, Drupal and Laravel. I love doing exciting and important things with code.
+Highly experienced Full Stack Developer, Certified Scrum Master, and Certified CMMI Associate with an extensive background in custom programming and various content management systems (CMS) and model–view–controller (MVC) frameworks, including WordPress, Drupal, and Laravel. I love doing exciting and important things with code.
 
 I have worked within NASA since 2007 and, as the Chief Application Developer and Application Development Lead for the ESDS Web Strategy Team, I have been directly involved in creating and managing many of the largest websites in the NASA system.
 
@@ -65,11 +65,11 @@ Credential ID 1607697
   Lead Developer for <a href="https://earthobservatory.nasa.gov/">NASA’s Earth Observatory</a> (November 2009 to present), <a href="https://visibleearth.nasa.gov/">NASA’s Visible Earth</a> (May 2011 to present) and <a href="https://neo.gsfc.nasa.gov/">NEO</a> (January 2012 to present), as well as several other agency wide websites.  
   Responsible for creating, maintaining and implementing web applications for specific branches of NASA’s Goddard Space Flight Center.
 
-- *Web Developer (2007-2009)*  
+- *Web Developer (2007 - 2009)*  
   Responsible for creating, maintaining and implementing web applications for specific branches of NASA’s Goddard Space Flight Center and NOAA’s Climate Program Office.
 
 **Sigma Space Corporation**
-- *Senior Web Developer (2009-2015)*  
+- *Senior Web Developer (2009 - 2015)*  
   See work description above. Employer change related to contract changes.
 
 **Gloto**
@@ -90,11 +90,11 @@ Credential ID 1607697
   - Life and Career Skills
 
 **ACT Personnel Service, Inc.**
-- *Technical Support Technician (2000-2003)*  
+- *Technical Support Technician (2000 - 2003)*  
   Responsible for the maintenance and development of web and other networked services.
 
 ## Volunteer Experience
-**Sports Car Club of America (SCCA) (2025-present)**  
+**Sports Car Club of America (SCCA) (2025 - present)**  
 - *Prepared Action Committee Member*
 
 ## Awards & Publications
