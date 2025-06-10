@@ -99,8 +99,8 @@ Credential ID 1607697
 
 ## Awards & Publications
 
-- 2025 NASA Group Achievement Award - "For exceptional innovation to modernize and streamline NASA's public web experience."
-- 2024 SSAI Performance Award - "In recognition of your outstanding support through the entire Capability Maturity Model Integration (CMMI) appraisal process that resulted in SSAI obtaining its CMMI Maturity Level 3 Certification."
+- 2025 NASA Group Achievement Award "For exceptional innovation to modernize and streamline NASA's public web experience."
+- 2024 SSAI Performance Award "In recognition of your outstanding support through the entire Capability Maturity Model Integration (CMMI) appraisal process that resulted in SSAI obtaining its CMMI Maturity Level 3 Certification."
 - 2022 Outstanding Web Development Award Presented to <a href="https://earthdata.nasa.gov">Earthdata</a> Web Strategy & Communications Team "For the development and implementation of the new <a href="https://earthdata.nasa.gov">Earthdata</a> website, providing a platform for users to discover, access, and use NASA Earth science data."
 - 2021 Technical Support Award issued by Climate and Radiation Laboratory, NASA Goddard Space Flight Center "For ten years of continuous dedication and service of remarkable quality in support of the <a href="https://earthobservatory.nasa.gov">Earth Observatory</a>, <a href="https://neo.gsfc.nasa.gov">NEO</a>, <a href="https://visibleearth.nasa.gov">Visible Earth</a>, ESCCOR, and <a href="https://eonet.gsfc.nasa.gov">EONET</a> websites."
 - 2019 Atmospheres Performance Award - Noteworthy Contribution Group Award “For 20 years of informative and inspirational images and stories about NASA Earth Science, published through the highly acclaimed <a href="https://earthobservatory.nasa.gov">Earth Observatory</a> website.”
